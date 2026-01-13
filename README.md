@@ -1,4 +1,4 @@
-This is a SQL Injection Detection System using Machine Learning.
-Balanced.csv is used as the dataset wiht queriers/plain text listed as safe or malicious.
-Used different classifiers but chose to proceed with SVM.
-Flask is used to implement frontend.
+SQL Injection Detection System
+📌 Project Overview
+This project implements a machine learning based SQL injection detection system designed to identify malicious SQL queries in real time. The goal is to move beyond simple rule based filtering by using natural language features and supervised learning to classify queries as malicious or safe.
+The system simulates a production style workflow, including data preprocessing, model training, and API deployment, making it suitable as a demonstration of applied analytics and ML integration.
